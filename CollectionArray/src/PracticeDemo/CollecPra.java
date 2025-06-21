@@ -13,6 +13,7 @@ public class CollecPra
 		al.add(101);
 		al.add(12);
 		al.add(87);
+		al.add(78);
 		
 		Iterator<Integer> i= al.iterator();
 		while(i.hasNext())
